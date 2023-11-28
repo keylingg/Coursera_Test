@@ -1,0 +1,65 @@
+body{
+    height: 1000px;
+    margin: auto;
+}
+h1{
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+.descrip{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+.info{
+    background-color: rgb(185, 145, 223);
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+
+.texto{
+    font-family: 'Poppins';
+    color: white;
+    font-size: 14px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.tit{
+    height: 150px;
+    padding-top: 50px;
+}
+
+.botones{
+    height: 50px;
+    padding-top: 1S0px;
+    justify-content: center;
+    text-align: center;
+}
+
+.btn1{
+    background-color: rgb(149, 185, 186);
+    border: none;
+    border-end-start-radius: 5px;
+    border-start-start-radius: 5px;
+}
+
+.btn2{
+    background-color: rgb(213, 187, 238);;
+    border: none;
+    border-start-end-radius: 5px;
+    border-end-end-radius: 5px;
+}
